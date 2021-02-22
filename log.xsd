@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- log.xsd -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="EventoLogXML">
+		<xs:complexType>	
+			<xs:simpleContent>
+				<xs:extension base="xs:string">
+					<xs:attribute type="xs:string" name="nomeEvento"/>
+					<xs:attribute type="xs:string" name="indirizzoIpClient"/>
+					<xs:attribute type="xs:string" name="timestamp"/>
+				</xs:extension>
+			</xs:simpleContent>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

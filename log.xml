@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- log.xml -->
+<EventoLogXML nomeEvento="Apertura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:05:57.115"/>
+<EventoLogXML nomeEvento="Apertura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:05:57.228"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:06:01.217"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:06:05.099"/>
+<EventoLogXML nomeEvento="Selezione di un messaggio" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:06:15.322"/>
+<EventoLogXML nomeEvento="Selezione di un messaggio" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:06:23.642"/>
+<EventoLogXML nomeEvento="Selezione di un messaggio" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:06:34.777"/>
+<EventoLogXML nomeEvento="Selezione di un messaggio" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:06:39.07"/>
+<EventoLogXML nomeEvento="Selezione di un messaggio" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:06:42.477"/>
+<EventoLogXML nomeEvento="Selezione di un messaggio" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:06:44.27"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:06:48.564"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:06:49.833"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:06:50.653"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:06:52.705"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:09:28.184"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:09:30.198"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:09:31.088"/>
+<EventoLogXML nomeEvento="Apertura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:09:41.232"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:09:50.434"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:10:43.612"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:10:44.288"/>
+<EventoLogXML nomeEvento="Apertura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:10:49.149"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:10:53.148"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:11:00.27"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:11:01.081"/>
+<EventoLogXML nomeEvento="Apertura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:11:12.853"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:11:15.368"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:11:17.685"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:11:19.32"/>
+<EventoLogXML nomeEvento="Apertura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:13:07.072"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:13:09.881"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:13:11.412"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:13:13.897"/>
+<EventoLogXML nomeEvento="Apertura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:13:43.69"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:13:46.053"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:13:48.814"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:13:49.576"/>
+<EventoLogXML nomeEvento="Apertura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:16:20.788"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:16:24.315"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:16:26.819"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:16:30.034"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:16:31.043"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:16:33.288"/>
+<EventoLogXML nomeEvento="Apertura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:17:42.441"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:17:44.729"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:18:00.733"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:18:01.336"/>
+<EventoLogXML nomeEvento="Apertura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:22:34.418"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:22:36.844"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:22:52.225"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:22:53.36"/>
+<EventoLogXML nomeEvento="Apertura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:23:17.238"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:23:19.556"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:23:24.125"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:23:25.448"/>
+<EventoLogXML nomeEvento="Apertura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:23:46.713"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:23:49.48"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:23:53.116"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:23:53.88"/>
+<EventoLogXML nomeEvento="Apertura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:24:15.861"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:24:18.441"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:24:22.575"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:24:23.28"/>
+<EventoLogXML nomeEvento="Apertura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:26:28.767"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:26:31.355"/>
+<EventoLogXML nomeEvento="Focus campo CERCA" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:26:40.929"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:27:18.825"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:27:19.744"/>
+<EventoLogXML nomeEvento="Apertura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:27:25.558"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:27:28.538"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:27:42.518"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:27:43.152"/>
+<EventoLogXML nomeEvento="Apertura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:27:47.672"/>
+<EventoLogXML nomeEvento="Connessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:27:50.705"/>
+<EventoLogXML nomeEvento="Selezione di un messaggio" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:27:59.481"/>
+<EventoLogXML nomeEvento="Selezione di un messaggio" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:28:04.626"/>
+<EventoLogXML nomeEvento="Selezione di un messaggio" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:28:05.977"/>
+<EventoLogXML nomeEvento="Selezione di un messaggio" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:28:06.649"/>
+<EventoLogXML nomeEvento="Selezione di un messaggio" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:28:07.658"/>
+<EventoLogXML nomeEvento="Selezione di un messaggio" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:28:08.498"/>
+<EventoLogXML nomeEvento="Selezione di un messaggio" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:28:09.073"/>
+<EventoLogXML nomeEvento="Disconnessione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:28:17.036"/>
+<EventoLogXML nomeEvento="Chiusura applicazione" indirizzoIpClient="127.0.0.1" timestamp="2021-02-09 16:28:18.041"/>

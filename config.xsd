@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- config.xsd -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="ParametriConfigurazioneXML">
+		<xs:complexType>	
+			<xs:sequence>
+				<xs:element name="maxCaratteriMessaggio" type="xs:decimal"/>
+				<xs:element name="numUtentiDaMostrare" type="xs:decimal"/>
+				<xs:element name="font" type="xs:string"/>
+				<xs:element name="fontSize" type="xs:float"/>
+				<xs:element name="coloreTema" type="xs:string"/>
+				<xs:element name="usernameDBMS" type="xs:string"/>
+				<xs:element name="passwordDBMS" type="xs:string"/>
+				<xs:element name="numGiorniDaMostrare" type="xs:short"/>	
+			</xs:sequence>	
+			<xs:attribute name="indirizzoIpServerDBMS" type="xs:string"/>
+			<xs:attribute name="portaServerDBMS" type="xs:short"/>
+			<xs:attribute name="indirizzoIpClient" type="xs:string"/>
+			<xs:attribute name="indirizzoIpServerDiLog" type="xs:string"/>
+			<xs:attribute name="portaServerDiLog" type="xs:short"/>			
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
+

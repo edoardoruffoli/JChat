@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- config.xml -->
+<ParametriConfigurazioneXML indirizzoIpClient="127.0.0.1" indirizzoIpServerDBMS="127.0.0.1" portaServerDBMS="3306"
+							indirizzoIpServerDiLog="127.0.0.1" portaServerDiLog="4242">
+	<maxCaratteriMessaggio>130</maxCaratteriMessaggio>
+	<numUtentiDaMostrare>7</numUtentiDaMostrare>
+	<font>Helvetica</font>
+	<fontSize>20.0</fontSize>
+	<coloreTema>#F0F8FF</coloreTema>
+	<usernameDBMS>root</usernameDBMS>
+	<passwordDBMS></passwordDBMS>
+	<numGiorniDaMostrare>31</numGiorniDaMostrare>
+</ParametriConfigurazioneXML>
